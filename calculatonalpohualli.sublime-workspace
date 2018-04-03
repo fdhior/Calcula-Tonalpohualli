@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"right"
+			],
+			[
+				"logo",
+				"logo-inicio-mevi"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"pl",
+				"pláticas"
+			],
+			[
+				"tw",
+				"font-weight"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"eqlu",
+				"equilibrio"
+			],
+			[
+				"vi",
+				"vive-el-aqui-y-el-ahora"
+			],
+			[
+				"ca",
+				"class\tAttr"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"viv",
+				"Vive"
+			],
+			[
+				"margn",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ght",
+				"height"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"bg",
+				"bgi\tbackground-image"
+			],
+			[
+				"ahora",
+				"ahora"
+			],
+			[
+				"M",
+				"MEVI"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ema",
+				"emailDuplicate"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"j",
+				"jsonObj"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"Pri",
+				"print_r"
+			],
+			[
+				"id",
+				"idEvento"
+			],
+			[
+				"hidde",
+				"hidden"
+			],
+			[
+				"apellido",
+				"apellidoPaterno"
+			],
+			[
+				"ape",
+				"apellido"
+			],
+			[
+				"apel",
+				"apellidoPaterno"
+			],
+			[
+				"form",
+				"form-horizontal \tBootstrap 3 Class"
+			],
+			[
+				"me",
+				"images/modelo.jpg"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"cas",
+				"images/cascada.png"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"ims",
+				"2017/old-assets/images/ims-transparent-logo-large.png"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"navba",
+				"navbar-deafult"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"asste",
+				"2017/assets/css/ims.css"
+			],
+			[
+				"lo",
+				"2017/assets/img/ims-transparent-logo.png"
+			],
+			[
+				"ima",
+				"2017/old-assets/images/bg-ims1.jpg"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"img",
+				"2017/old-assets/images/ims-transparent-logo.png"
+			],
+			[
+				"bgpo",
+				"background-position"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bg-im",
+				"2017/assets/img/bg-ims4.jpg"
+			],
+			[
+				"ass",
+				"2017/old assets/css/custom.css"
+			],
+			[
+				"boot",
+				"2017/old assets/js/bootstrap.min.js"
+			],
+			[
+				"tr",
+				"2017/assets/img/ims-transparent-logo.png"
+			],
+			[
+				"navbar-f",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"na",
+				"navigation"
+			],
+			[
+				"navaba",
+				"navbar-default \tBootstrap 3 Class"
+			],
+			[
+				"de",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/* Sublime GitHub default settings */\n{\n    \"accounts\": {\n        \"GitHub\": {\n            \"base_uri\": \"https://api.github.com\",\n            \"github_token\": \"\"\n        }\n    },\n\n    // You can add support for a private GitHub installation by adding another entry\n    // to the accounts entry in the User settings file (Preferences ->\n    // Package Settings -> GitHub -> Settings - User). You can then switch between\n    // accounts via the GitHub: Switch Accounts command\n    //\n    // \"YourCo\": {\n    //     \"base_uri\": \"https://github.yourco.com/api/v3\",\n    //     \"github_token\": \"\",\n    //     \"protocol\": \"http\",  // default is \"https\"\n    //     \"remote\": \"upsteam\"  // default is \"\" (no remote)\n    // }\n\n    // The format of the each line in the list of gists.\n    // The value is either a Python format string, or a list of Python format\n    // strings. In the latter case, each element of the list will be a separate\n    // line in the select list.\n    // Valid parameters:\n    //    filename - filename of [first file in] gist\n    //    description - description of gist\n    //    index - 1-based index of gist in the list\n    //\n    // Some things to try:\n    // \"gist_list_format\": \"%(index)d. %(filename)s: %(description)s\",\n    // \"gist_list_format\": [\"%(filename)s\", \"%(description)s\"],\n    \"gist_list_format\": \"%(filename)s: %(description)s\",\n    // If true, display the list of gists in a monospace font\n    \"gist_list_monospace\": false,\n    // Highlight the line the cursor is on in GitHub, even if the line is not selected\n    \"always_highlight_current_line\": false,\n    // output debug info to the console\n    \"debug\": false\n}\n",
+			"file": "/D/Portables/Sublime Text/Data/Packages/sublime-github/GitHub.sublime-settings",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 1649,
+				"line_ending": "Windows",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 286.0,
+		"last_filter": "github",
+		"selected_items":
+		[
+			[
+				"github",
+				"GitHub: Copy Gist to Clipboard"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Git: Push"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: comm",
+				"Snippet: Long Comment"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: lon",
+				"Snippet: Long Comment"
+			],
+			[
+				"Snippet: com",
+				"Snippet: Long Comment"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"hyper",
+				"Hyperlink Helper: Lookup with Google & Link"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			]
+		],
+		"width": 395.0
+	},
+	"console":
+	{
+		"height": 180.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Webfolders/Calcula-Tonalpohualli/formulariocuenta_files/formoid1"
+	],
+	"file_history":
+	[
+		"/D/Webfolders/Calcula-Tonalpohualli/convierteatolteca-matrices.php",
+		"/D/Webfolders/Calcula-Tonalpohualli/convierteatolteca.php",
+		"/D/Webfolders/Calcula-Tonalpohualli/index.php",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/D/Webfolders/sitiomevi/index.html",
+		"/D/Webfolders/sitiomevi/contacto-mevi.html",
+		"/D/Webfolders/sitiomevi/francisco-rivas.html",
+		"/D/Webfolders/sitiomevi/eventos/registroPlatica121017.html",
+		"/D/Webfolders/sitiomevi/eventos/platica-09112017.html",
+		"/D/Webfolders/sitiomevi/css/mevi.css",
+		"/D/Webfolders/sitiomevi/equipo-mevi.html",
+		"/D/Webfolders/sitiomevi/tu-espacio.html",
+		"/D/Webfolders/sitiomevi/equilibrio-emocional.html",
+		"/D/Webfolders/sitiomevi/vive-el-aqui-y-el-ahora.html",
+		"/D/Webfolders/sitiomevi/modelo-mevi.html",
+		"/D/Webfolders/sitiomevi/testimoniales.html",
+		"/D/Webfolders/sitiomevi/que-es-mevi.html",
+		"/D/Webfolders/sitiomevi/eventos-mevi.html",
+		"/D/Webfolders/sitiomevi/images/contacto-ubicación-banner.jpg",
+		"/D/Downloads/player.html",
+		"/D/Cloud Storage/Google Drive/getfile.php",
+		"/D/Webfolders/sitiomevi/brindis-aniversario-mevi.html",
+		"/D/Webfolders/sitiomevi/css/reset.css",
+		"/D/Intercambio/Cursos/Udemy/Bootstrap to WordPress/Bootstrap to WordPress Course Files/C - Final Static Website/B2W - Static/index.html",
+		"/D/Portables/tuxguitar-1.4-windows-x86/tuxguitar.bat",
+		"/D/Downloads/client_id.json",
+		"/D/Downloads/captions.sbv",
+		"/D/Webfolders/sitiomevi/index_mant.html",
+		"/D/Downloads/sitemap.xml",
+		"/D/Webfolders/sitiomevi/sitemap.xml",
+		"/D/Webfolders/intelligentmusicsociety/assets/img/imsbckgnd.jpg",
+		"/D/Downloads/StickyHeader/index.html",
+		"/D/Webfolders/intelligentmusicsociety/shrink.html",
+		"/D/Webfolders/intelligentmusicsociety/index.html",
+		"/D/Webfolders/intelligentmusicsociety/assets/css/bootstrap-theme.css",
+		"/D/Webfolders/intelligentmusicsociety/assets/css/bootstrap.css",
+		"/D/Webfolders/Sample Sites/riot.design/assets/css/app.css@v=6&x32898.css",
+		"/D/Webfolders/imsbootstrap/index.html",
+		"/D/Webfolders/sitiomevi/index-temp.html",
+		"/D/Webfolders/sitiomevi/vive.html",
+		"/D/Webfolders/sitiomevi/equilibrio.html",
+		"/D/Webfolders/sitiomevi/tuEspacio.html",
+		"/D/Webfolders/sitiomevi/eventos/php/funciones/conectarbd.php",
+		"/D/Downloads/mevidb.sql",
+		"/D/Webfolders/sitiomevi/awsome.html",
+		"/D/Webfolders/sitiomevi/eventos/js/app/main.js",
+		"/D/Webfolders/sitiomevi/eventos/php/enviarDatos.php",
+		"/D/Webfolders/sitiomevi/eventosMevi.html",
+		"/D/Webfolders/sitiomevi/index-1.html",
+		"/D/Webfolders/sitiomevi/robots.txt",
+		"/C/Users/Meme Mine/Desktop/DrWeb_Log.txt",
+		"/D/Webfolders/sitiomevi/franciscoRivas.html",
+		"/D/Webfolders/sitiomevi/queEsMevi.html",
+		"/D/Webfolders/sitiomevi/contactoMevi.html",
+		"/D/Webfolders/sitiomevi/modeloMevi.html",
+		"/D/Webfolders/sitiomevi/equipoMevi.html",
+		"/D/Webfolders/sitiomevi/index_mantenimiento.html",
+		"/D/Webfolders/www.saganowski.com/index.html",
+		"/D/Webfolders/ultimoconsulting.com/index.html",
+		"/D/Webfolders/sitiomevi/eventos/php/funciones/conectarbd-remoto2.php",
+		"/D/Webfolders/sitiomevi/eventos/php/funciones/conectarbd-remoto.php",
+		"/D/Webfolders/sitiomevi/eventos/php/funciones/cerrar_conexion.php",
+		"/D/Webfolders/sitiomevi/eventos/php/funciones/consultas.php",
+		"/D/Webfolders/sitiomevi/eventos/php/newCaptcha.php",
+		"/D/Webfolders/sitiomevi/css/registro/animate-custom.css",
+		"/D/Webfolders/sitiomevi/js/jquery-ui/jquery-ui.js",
+		"/D/captcha/index.html",
+		"/D/captcha/js/app/main.js",
+		"/D/Downloads/mevi captcha/easy-jquery-php-captcha-master.zip",
+		"/D/Webfolders/sitiomevi/eventos/php/funciones/generar_mesesanios.php",
+		"/D/Webfolders/sitiomevi/eventos/js/app.js",
+		"/D/Webfolders/sitiomevi/php/checkCaptcha.php",
+		"/D/Webfolders/sitiomevi/captcha/index.html",
+		"/D/Webfolders/sitiomevi/eventos/index.html",
+		"/D/Webfolders/sitiomevi/php/newCaptcha.php",
+		"/D/Webfolders/sitiomevi/eventos/php/checkCaptcha.php",
+		"/D/Webfolders/sitiomevi/registroPlatica280917.html",
+		"/D/Webfolders/sitiomevi/captcha/js/vendor/require.js",
+		"/D/Webfolders/sitiomevi/captcha/js/vendor/backbone.js",
+		"/D/Webfolders/sitiomevi/captcha/js/vendor/jquery.js",
+		"/C/Users/Meme Mine/Box Sync/MEVI/Contactos Formato MailChimp.csv",
+		"/D/Webfolders/sitiomevi/images.zip",
+		"/D/Webfolders/sitiomevi/eventos.html ",
+		"/D/Downloads/AnimatedHeader/index.html",
+		"/D/Webfolders/intelligentmusicsociety/index.php",
+		"/D/Downloads/AnimatedHeader/css/default.css",
+		"/D/Webfolders/intelligentmusicsociety/css/custom.css",
+		"/D/Downloads/AnimatedHeader/css/component.css",
+		"/C/wamp64/bin/apache/apache2.4.23/htdocs/index.html",
+		"/C/wamp64/bin/apache/apache2.4.23/conf/original/httpd.conf",
+		"/C/Users/Francisco/Desktop/Presupuesto Jano.xlsx",
+		"/C/wamp/www/ims/htdocs/2017/mainpage.html",
+		"/C/wamp/www/cornerjobslanding/www.cornerjob.com/index.html",
+		"/C/wamp/www/ims/htdocs/2017/assets/css/ims.css",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/css/app.css",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/css/app2costum.css",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/js/ims.js",
+		"/C/Bitnami/wappstack-5.6.30-1/apache2/htdocs/bugzilla/localconfig",
+		"/C/Bitnami/wappstack-5.6.30-1/apache2/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/css/custom.css",
+		"/C/wamp/www/ims/htdocs/2017/mainpage.php",
+		"/C/wamp/www/ims/htdocs/2017/mainpage-from-design.php",
+		"/C/wamp/www/cornerjobslanding/www.cornerjob.com/css/all.min.css@20160224.1.css",
+		"/C/wamp/www/tiendatest/index.html",
+		"/C/wamp/www/tiendatest/index.htmñ.html",
+		"/D/Downloads/B2W-Final-Course-Files/B2W Final Course Files/C - Final Static Website/B2W - Static/index.html",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/js/main.js",
+		"/C/wamp/www/ims/htdocs/2017/index.html",
+		"/C/wamp/www/wgetdownload/www.bradhussey.ca/custom.css",
+		"/C/wamp/www/wgetdownload/www.bradhussey.ca/index.html",
+		"/C/wamp/www/ims/htdocs/2017/assets/css/corner.css",
+		"/C/wamp/www/ims/htdocs/2017/assets/js/ims.js",
+		"/C/wamp/www/ims/htdocs/2017/assets/js/npm.js",
+		"/C/wamp/www/ims/htdocs/2017/assets/js/jquery-2.1.4.min.js",
+		"/C/wamp/www/ims/htdocs/2017/assets/js/bootstrap.min.js",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/js/npm.js",
+		"/C/wamp/www/ims/htdocs/2017/old-assets/css/librerie.css",
+		"/C/wamp/www/ims/htdocs/2017/assets/js/jquery-3.2.1.min.js",
+		"/C/wamp/www/ims/htdocs/2017/assets/img/favicon.png",
+		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/cdn.ustatik.com/js/ug_scripts_ver1490469296.js",
+		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/m/michael_penn/no_myth_ver2_crd.htm",
+		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/d/dresden_dolls/necessary_evil_crd.htm",
+		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/m/michael_penn/no_myth_ver2_crd.htm.orig",
+		"/C/wamp/bin/apache/apache2.4.23/conf/httpd.conf",
+		"/C/wamp/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/wampmanager.conf",
+		"/C/wamp/logs/apache_error.log",
+		"/C/wamp/logs/access.log"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\Webfolders\\sitiomevi",
+			"",
+			"D:\\Webfolders\\sitiomevi",
+			"D:\\Webfolders\\intelligentmusicsociety",
+			"D:\\Webfolders\\sitiomevi",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			" Whatsapp 554010 1484",
+			"554010 1484",
+			"Teléfono",
+			"teléfonos",
+			"https://www.facebook.com/mevi.rivas.cursos",
+			"https://www.facebook.com/MEVIoficial/",
+			"https://www.facebook.com/mevi.rivas.cursos",
+			"mevi.rivas",
+			"dialog-confirm",
+			"curso",
+			"mail:",
+			" mail:",
+			" ",
+			"publicitarias online",
+			": ",
+			"19-20h",
+			"li",
+			"554498 8011",
+			"5544988011",
+			"<i class=\"fa fa-home\" aria-hidden=\"true\"></i><a href=\"/\">Inicio</a> >",
+			"<img src=\"images/equilibrio.emocional-mevi.jpg\"",
+			"img",
+			"<img src=\"images/01.jpg\"",
+			"<img src=\"images/05.jpg\"",
+			"<img src=\"images/03.jpg\"",
+			"background",
+			"<img src=\"images/04.jpg\"",
+			"<img src=\"images/02.jpg\"",
+			"<img",
+			"Método",
+			"menu",
+			"\t\t\t\t\t<li class=\"seccionActual\">Inicio</li>\n\t\t\t\t\t<li><a href=\"francisco-rivas.html\">Francisco Rivas</a></li>\n\t\t\t\t\t<li><a href=\"que-es-mevi.html\">¿Qué es MEVI?</a></li>\n\t\t\t\t\t<li><a href=\"modelo-mevi.html\">Modelo MEVI</a></li>\n\t\t\t\t\t<li><a href=\"equipo-mevi.html\">El equipo</a></li>\n\t\t\t\t\t<li><a href=\"contacto-mevi.html\">Contacto</a></li>\n\t\t\t\t\t<li><a href=\"eventos-mevi.html\">Eventos MEVI</a></li>",
+			"navbar-wrapper",
+			"site-header",
+			">>",
+			"<<",
+			"<img",
+			"<<",
+			"listaResp",
+			"red",
+			"<a href=\"equilibrio.html\"",
+			"equilibrio.html",
+			".colorAzulClaro",
+			".colorAzu",
+			"<a href=\"vive.html\"",
+			"vive.html",
+			"h3",
+			"h2",
+			"h3",
+			"h2",
+			"h3",
+			"h1",
+			"h3",
+			"h1",
+			"<html lang=\"es-mx\">",
+			"<a href=\"franciscoRivas.html\"",
+			"<a href=\"tuEspacio.html\"",
+			"<a href=\"queEsMevi.html\"",
+			"<li><a href=\"contactoMevi.html\">Contacto</a></li>",
+			"<li><a href=\"equipoMevi.html\">El equipo</a></li>",
+			"<li><a href=\"modeloMevi.html\">Modelo MEVi</a></li>",
+			"<li><a href=\"queEsMevi.html\">¿Qué es MEVI?</a></li>",
+			"<li><a href=\"franciscoRivas.html\">Francisco Rivas</a></li>",
+			"<html>",
+			"css",
+			"echo",
+			"form",
+			"resgstroasistentes",
+			"conectarbd.php",
+			"insert",
+			"                        this.cache.$form = $('#captcha-form');\n                        this.cache.$refreshCaptcha = $('#refresh-captcha');\n                        this.cache.$captchaImg = $('img#captcha');\n                        this.cache.$captchaInput = $(':input[name=\"captcha\"]');",
+			"register",
+			"none",
+			"hidden",
+			"\t\t\t\t<p class=\"resaltadoResp\"><span class=\"colorAzulClaroTenue\">RESPONSABILIDAD</span> ≠ <span class=\"colorRojo\">Totalmente distinto a culpabilidad</span></p>\n\n\t\t\t\t<p class=\"resaltadoResp\"><span class=\"colorAzulClaroTenue\">RESPONSABILIDAD</span> = <span class=\"colorVerdeOscuro\">Habilidad de responder.</span></p>",
+			"imagen",
+			"h2",
+			"li",
+			"h4",
+			"<",
+			"< --",
+			"<--",
+			"h3",
+			"h2",
+			"erImagen",
+			"estimulo",
+			"p",
+			";\n",
+			"h3",
+			"video",
+			"www",
+			"htdocs",
+			"www",
+			"THE I.M.S.",
+			"slogan",
+			"hero",
+			"navbar",
+			"intro",
+			"navbar",
+			"count.js",
+			".css",
+			"navbar",
+			"img",
+			"logo",
+			"img",
+			"bg-ims",
+			"img",
+			"images",
+			"img",
+			"images",
+			"intro-",
+			"border",
+			"assets",
+			"nav",
+			"Section comment",
+			"WHAT IS THE IMS",
+			"HEADER SECTION",
+			"HEADER",
+			"Section comment",
+			"ultimate-guitar-local.com",
+			"main_server",
+			"domain",
+			"ultimate-guitar.com",
+			"ultimate-guitar-local.com",
+			"main_server",
+			"domain",
+			"applicature",
+			"applica"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" Whatsapp 554010 1484",
+			"https://www.facebook.com/MEVIoficial/",
+			"555656 8371",
+			"<i class=\"fa fa-home\" aria-hidden=\"true\"></i> <a href=\"/\">Inicio</a> >",
+			"<img src=\"images/equilibrio-emocional-mevi.jpg\"",
+			"<img src=\"images/que-es-mevi.jpg\"",
+			"<img src=\"images/testimoniales-mevi.jpg\"",
+			"<img src=\"images/equilibrio.emocional-mevi.jpg\"",
+			"<img src=\"images/tu-espacio-mevi.jpg\"",
+			"<img src=\"images/vive-el-aqui-y-el-ahora-mevi.jpg\"",
+			"<a href=\"equilibrio-emocional.html\"",
+			"<a href=\"vive-el-aqui-y-el-ahora.html\"",
+			"<a href=\"francisco-rivas.html\"",
+			"<a href=\"tu-espacio.html\"",
+			"<a href=\"que-es-mevi.html\"",
+			"<li><a href=\"contacto-mevi.html\">Contacto</a></li>",
+			"<li><a href=\"equipo-mevi.html\">El equipo</a></li>",
+			"<li><a href=\"modelo-mevi.html\">Modelo MEVi</a></li>",
+			"<li><a href=\"que-es-mevi.html\">¿Qué es MEVI?</a></li>",
+			"<li><a href=\"francisco-rivas.html\">Francisco Rivas</a></li>",
+			"<html lang=\"es\">",
+			"D:/Portables/Sublime Text/sublime_text.exe"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Portables/Sublime Text/Data/Packages/sublime-github/GitHub.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1649,
+								1649
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.513787352363,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "calculatonalpohualli.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
