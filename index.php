@@ -16,7 +16,7 @@
     	   font-size:14px;
     	   font-family:'Open Sans','Helvetica Neue','Helvetica',Arial,Verdana,sans-serif;
     	   color:#666666;width:480px"
-    title="Cuenta Tolteca" method="post" action="convierteatolteca.php">
+    title="Cuenta Tolteca" method="post" action="convierteatolteca-matrices.php">
 	<div class="element-text" ><h2 class="title">Cuenta Tolteca del Tiempo</h2></div>
 	<div class="element-input" >
 		
