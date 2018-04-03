@@ -1,9 +1,18 @@
 
-body {
+/* 		body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.3em;
   line-height: 20px;
   color: #333333;
   background-color: #C4DEFF;
+} */
+
+body {
+  padding-top: 5rem;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: left;
 }
