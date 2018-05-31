@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"c",
+				"css"
+			],
+			[
 				"r",
 				"right"
 			],
@@ -299,19 +303,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "/* Sublime GitHub default settings */\n{\n    \"accounts\": {\n        \"GitHub\": {\n            \"base_uri\": \"https://api.github.com\",\n            \"github_token\": \"\"\n        }\n    },\n\n    // You can add support for a private GitHub installation by adding another entry\n    // to the accounts entry in the User settings file (Preferences ->\n    // Package Settings -> GitHub -> Settings - User). You can then switch between\n    // accounts via the GitHub: Switch Accounts command\n    //\n    // \"YourCo\": {\n    //     \"base_uri\": \"https://github.yourco.com/api/v3\",\n    //     \"github_token\": \"\",\n    //     \"protocol\": \"http\",  // default is \"https\"\n    //     \"remote\": \"upsteam\"  // default is \"\" (no remote)\n    // }\n\n    // The format of the each line in the list of gists.\n    // The value is either a Python format string, or a list of Python format\n    // strings. In the latter case, each element of the list will be a separate\n    // line in the select list.\n    // Valid parameters:\n    //    filename - filename of [first file in] gist\n    //    description - description of gist\n    //    index - 1-based index of gist in the list\n    //\n    // Some things to try:\n    // \"gist_list_format\": \"%(index)d. %(filename)s: %(description)s\",\n    // \"gist_list_format\": [\"%(filename)s\", \"%(description)s\"],\n    \"gist_list_format\": \"%(filename)s: %(description)s\",\n    // If true, display the list of gists in a monospace font\n    \"gist_list_monospace\": false,\n    // Highlight the line the cursor is on in GitHub, even if the line is not selected\n    \"always_highlight_current_line\": false,\n    // output debug info to the console\n    \"debug\": false\n}\n",
-			"file": "/D/Portables/Sublime Text/Data/Packages/sublime-github/GitHub.sublime-settings",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 1649,
-				"line_ending": "Windows",
-				"read_only": true,
-				"scratch": true
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -320,13 +311,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 286.0,
-		"last_filter": "github",
+		"height": 104.0,
+		"last_filter": "git push",
 		"selected_items":
 		[
 			[
+				"git push",
+				"Git: Push"
+			],
+			[
 				"github",
-				"GitHub: Copy Gist to Clipboard"
+				"GitHub: Open Starred Gist in Editor"
 			],
 			[
 				"install pa",
@@ -393,7 +388,7 @@
 				"Colorsublime: Install Theme"
 			]
 		],
-		"width": 395.0
+		"width": 512.0
 	},
 	"console":
 	{
@@ -413,13 +408,18 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Webfolders/Calcula-Tonalpohualli/formulariocuenta_files/formoid1"
+		"/D/Webfolders/Calcula-Tonalpohualli"
 	],
 	"file_history":
 	[
 		"/D/Webfolders/Calcula-Tonalpohualli/convierteatolteca-matrices.php",
-		"/D/Webfolders/Calcula-Tonalpohualli/convierteatolteca.php",
 		"/D/Webfolders/Calcula-Tonalpohualli/index.php",
+		"/D/Webfolders/Calcula-Tonalpohualli/css/cuentatolteca.css",
+		"/D/Webfolders/Calcula-Tonalpohualli/js/cuentatolteca.js",
+		"/D/Webfolders/Calcula-Tonalpohualli/js/src/util.js",
+		"/D/Portables/Sublime Text/Data/Packages/sublime-github/GitHub.sublime-settings",
+		"/D/Portables/Sublime Text/Data/Packages/User/GitHub.sublime-settings",
+		"/D/Webfolders/Calcula-Tonalpohualli/convierteatolteca.php",
 		"/C/wamp64/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
 		"/D/Webfolders/sitiomevi/index.html",
 		"/D/Webfolders/sitiomevi/contacto-mevi.html",
@@ -539,12 +539,7 @@
 		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/cdn.ustatik.com/js/ug_scripts_ver1490469296.js",
 		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/m/michael_penn/no_myth_ver2_crd.htm",
 		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/d/dresden_dolls/necessary_evil_crd.htm",
-		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/m/michael_penn/no_myth_ver2_crd.htm.orig",
-		"/C/wamp/bin/apache/apache2.4.23/conf/httpd.conf",
-		"/C/wamp/bin/apache/apache2.4.23/conf/extra/httpd-vhosts.conf",
-		"/C/wamp/wampmanager.conf",
-		"/C/wamp/logs/apache_error.log",
-		"/C/wamp/logs/access.log"
+		"/C/wamp/www/musictabs/tabs.ultimate-guitar.com/m/michael_penn/no_myth_ver2_crd.htm.orig"
 	],
 	"find":
 	{
@@ -568,6 +563,8 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"openDataModal",
+			"js",
 			" Whatsapp 554010 1484",
 			"554010 1484",
 			"Teléfono",
@@ -693,9 +690,7 @@
 			"ultimate-guitar.com",
 			"ultimate-guitar-local.com",
 			"main_server",
-			"domain",
-			"applicature",
-			"applica"
+			"domain"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -735,37 +730,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/D/Portables/Sublime Text/Data/Packages/sublime-github/GitHub.sublime-settings",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1649,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1649,
-								1649
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 216.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		},
 		{
@@ -807,7 +773,7 @@
 		"rows":
 		[
 			0.0,
-			0.513787352363,
+			0.815792364894,
 			1.0
 		]
 	},
@@ -854,7 +820,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -862,7 +828,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 288.0,
+	"side_bar_width": 244.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
